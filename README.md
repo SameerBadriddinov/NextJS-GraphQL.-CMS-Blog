@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo https://newgraoh.vercel.app/
 
+With popular and latest posts, categories. complete with article markdowns, author info, comments and more, this fully responsive HeadlessCMS Blog app is the best GraphQL blog app you can find on YouTube. And the best thing is that you or your clients can manage the blog from a dedicated content management system. Built with the latest technologies such as React JS, NextJS, Tailwind CSS, GraphQL and GraphCMS.
+
 ## Getting Started
 
 First, run the development server:
